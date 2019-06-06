@@ -1,0 +1,14 @@
+---
+title: "ExistingProjectTest1"
+author: "Molly Simonis"
+date: "June 6, 2019"
+output: html_document
+---
+This project and .rmd is a sham file to try to test if I can get an existing project into Github. I will first create a repo in git hub and then follow steps outlined in https://happygitwithr.com/existing-github-first.html in Chapter 16.
+
+#Note: be sure the project options in this project have a Git repo set to 'None'
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+this has been added from my original existing project
